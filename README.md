@@ -9,3 +9,12 @@ O Jokenpo Bot tem a função de duelar contra o user que jogar algum do elemento
 
 # Desenvolvedores
 Gabriel Silveira e Gustavo Casagrande
+
+# Comandos
+
+| Comando | Descrição |
+| --- | --- |
+| !Regras | Comando que irá informar ao usuário as regras do jogo |
+| Pedra | Comando para definir a escolha do usuário como 'Pedra' |
+| Papel | Comando para definir a escolha do usuário como 'Papel' |
+| Tesoura | Comando para definir a escolha do usuário como 'Tesoura'|
