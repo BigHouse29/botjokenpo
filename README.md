@@ -19,6 +19,6 @@ Gabriel Silveira e Gustavo Casagrande
 | Papel | Comando para definir a escolha do usuário como 'Papel' |
 | Tesoura | Comando para definir a escolha do usuário como 'Tesoura'|
 
-#Plugins
+# Plugins
 
 Não foi utilizado Plugins, apenas a biblioteca 'Discord.py' .
